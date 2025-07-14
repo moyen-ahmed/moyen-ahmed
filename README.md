@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=80&lines=Iqbolshoh+Ilhomjonov" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Ishtiak+Ahmed+Moyen" alt="Typing SVG" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&height=80&lines=Full-Stack+Developer+from+Samarkand;Software+Engineer;Web+Developer+and+Mentor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Libertinus+Mono&weight=900&size=22&pause=1000&color=F70000&width=435&lines=+Full-Stack+Developer++From+Bangladesh" alt="Typing SVG" />
 </p>
 
 <div align="center">
-✨ I'm <strong>Iqbolshoh Ilhomjonov</strong>, a passionate Full-Stack Developer and 4th-year Software Engineering student from the legendary city of <strong>Samarkand, Uzbekistan</strong>.  
+✨ I'm <strong>Ishtiak Ahmed Moyen</strong>, a passionate Full-Stack Developer and 4th-year Computer science and engineering student from the North South University of <strong>Dhaka, Bangladesh</strong>.  
 With over 3 years of experience, I specialize in building seamless, user-centric digital experiences — blending creativity and clean code. 🚀
 </div>
 
 <p align="center">
-  <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-1.jpg" alt="Iqbolshoh photo 1" width="30%"/>
-  <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-5.jpg" alt="Iqbolshoh photo 2" width="30%"/>
-  <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-3.jpg" alt="Iqbolshoh photo 3" width="30%"/>
+  <img src="https://github.com/moyen-ahmed/moyen-ahmed/blob/main/moin.jpg?raw=true" alt="Iqbolshoh photo 1" width="30%"/>
+  <img src="https://github.com/moyen-ahmed/moyen-ahmed/blob/main/moind.jpg?raw=true" alt="Iqbolshoh photo 2" width="30%"/>
+  <img src="https://github.com/moyen-ahmed/moyen-ahmed/blob/main/IMG_20220329_233142_098.jpg?raw=true" alt="Iqbolshoh photo 3" width="30%"/>
 </p>
 
 <table align="center">
@@ -20,12 +20,12 @@ With over 3 years of experience, I specialize in building seamless, user-centric
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/000000/marker.png" width="40" alt="Location Icon"/><br/>
       <strong>Location</strong><br/>
-      Samarkand, Uzbekistan
+      Dhaka,Bangladesh
     </td>
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" width="40" alt="Education Icon"/><br/>
       <strong>Education</strong><br/>
-      4th-Year Student<br/>Samarkand State University
+      4th-Year Student<br/>North South University
     </td>
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/000000/code.png" width="40" alt="Profession Icon"/><br/>
@@ -42,20 +42,12 @@ With over 3 years of experience, I specialize in building seamless, user-centric
   <table>
     <tr>
       <td align="center">
-        <img src="https://flagcdn.com/32x24/tj.png" width="32" alt="Tajikistan Flag">
-        <p><strong>Tajik</strong></p>
+        <img src="https://github.com/moyen-ahmed/moyen-ahmed/blob/main/fgrs.png?raw=true" width="32" alt="Tajikistan Flag">
+        <p><strong>Bangla</strong></p>
       </td>
       <td align="center">
-        <img src="https://flagcdn.com/32x24/ir.png" width="32" alt="Iran Flag">
-        <p><strong>Persian</strong></p>
-      </td>
-      <td align="center">
-        <img src="https://flagcdn.com/32x24/uz.png" width="32" alt="Uzbekistan Flag">
-        <p><strong>Uzbek</strong></p>
-      </td>
-      <td align="center">
-        <img src="https://flagcdn.com/32x24/ru.png" width="32" alt="Russia Flag">
-        <p><strong>Russian</strong></p>
+        <img src="https://github.com/moyen-ahmed/moyen-ahmed/blob/main/Untitled.png?raw=true" width="32" alt="Iran Flag">
+        <p><strong>Japanes</strong></p>
       </td>
       <td align="center">
         <img src="https://flagcdn.com/32x24/gb.png" width="32" alt="UK Flag">
@@ -72,19 +64,19 @@ With over 3 years of experience, I specialize in building seamless, user-centric
   <table>
     <tr>
       <td>
-        <a href="https://iqbolshoh.uz" target="_blank">
+        <a href="https://moinahmed.com" target="_blank">
           <img src="https://img.icons8.com/color/48/domain.png" 
                height="40" width="40" alt="Website" title="Website" />
         </a>
       </td>
       <td>
-        <a href="mailto:iilhomjonov777@gmail.com" target="_blank">
+        <a href="estyakahmefmoyen@gmail.com" target="_blank">
           <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg"
                height="40" width="40" alt="Email" title="Email" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/iqbolshoh" target="_blank">
+        <a href="https://github.com/moyen-ahmed" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
                height="40" width="40" alt="GitHub" title="GitHub" />
         </a>
@@ -230,41 +222,25 @@ With over 3 years of experience, I specialize in building seamless, user-centric
 
 ---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbolshoh&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB" align="center" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moyen-ahmed&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB" align="center" width="100%" />
 
 <div align="center">
-    <img alt="Shaggy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iqbolshoh&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300" align="center" width="100%" />
+    <img alt="Shaggy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=moyen-ahmed&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300" align="center" width="100%" />
 </div>
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=iqbolshoh&show_icons=true&theme=radical" alt="GitHub Stats" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=moyen-ahmed&show_icons=true&theme=radical" alt="GitHub Stats" width="100%">
 
 ## 🏆 GitHub Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=iqbolshoh&theme=radical&column=4" alt="GitHub Trophy" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=moyen-ahmed&theme=radical&column=4" alt="GitHub Trophy" width="100%" />
 
 ## 📈 Top Languages
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iqbolshoh&layout=compact&theme=radical" alt="Coding Stats" width="47.5%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbolshoh&layout=compact&theme=radical" alt="Top Languages" width="50%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moyen-ahmed&layout=compact&theme=radical" alt="Coding Stats" width="47.5%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moyen-ahmed&layout=compact&theme=radical" alt="Top Languages" width="50%">
 </div>
 
-## 🚀 Top Repositories
 
-<a href="https://github.com/Iqbolshoh/laravel-business-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iqbolshoh&repo=laravel-business-website&theme=radical" alt="Laravel Business Website" width="49%">
-</a>
-
-<a href="https://github.com/Iqbolshoh/php-mysql-marketplace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=php-mysql-marketplace&theme=radical" alt="Top Repositories" width="49%">
-</a>
-
-<a href="https://github.com/Iqbolshoh/php-social-messenger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iqbolshoh&repo=php-social-messenger&theme=radical" alt="PHP Social Messenger" width="49%">
-</a>
-
-<a href="https://github.com/Iqbolshoh/php-auth-master">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iqbolshoh&repo=php-auth-master&theme=radical" alt="PHP Auth Master" width="49%">
-</a>
