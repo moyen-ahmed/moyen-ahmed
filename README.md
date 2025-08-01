@@ -64,7 +64,7 @@ With over 3 years of experience, I specialize in building seamless, user-centric
   <table>
     <tr>
       <td>
-        <a href="https://moinahmed.com" target="_blank">
+        <a href="https://estyakmoyen.com" target="_blank">
           <img src="https://img.icons8.com/color/48/domain.png" 
                height="40" width="40" alt="Website" title="Website" />
         </a>
@@ -82,7 +82,7 @@ With over 3 years of experience, I specialize in building seamless, user-centric
         </a>
       </td>
       <td>
-        <a href="https://www.linkedin.com/in/iqbolshoh/" target="_blank">
+        <a href="https://www.linkedin.com/in/ishtiaqahmedmoyen/" target="_blank">
           <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg"
                height="40" width="40" alt="LinkedIn" title="LinkedIn" />
         </a>
@@ -100,7 +100,7 @@ With over 3 years of experience, I specialize in building seamless, user-centric
         </a>
       </td>
       <td>
-        <a href="https://instagram.com/iqbolshoh_777" target="_blank">
+        <a href="https://www.instagram.com/eye_of_heave_n/" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                height="40" width="40" alt="Instagram" title="Instagram" />
         </a>
@@ -112,7 +112,7 @@ With over 3 years of experience, I specialize in building seamless, user-centric
         </a>
       </td>
       <td>
-        <a href="https://www.youtube.com/@Iqbolshoh_777" target="_blank">
+        <a href="https://www.youtube.com/@moyenahmed1763" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
                height="40" width="40" alt="YouTube" title="YouTube" />
         </a>
